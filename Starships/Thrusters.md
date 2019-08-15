@@ -7,7 +7,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - Built literally with just a glowstone block.
 - Worst thruster ovrerall, but use less power and space.
 - Best for super small/cheap ships.
-- Acceleration 0.2, speed 1.75
+- Acceleration 0.2, power 1.75
 
 ![Glowstone]
 
@@ -16,7 +16,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - The lamp should face away from your ship.
 - Best for most ships.
 - Very fast acceleration and almost as fast speed. 
-- Acceleration 0.75, speed 2.0
+- Acceleration 0.75, power 2.0
 
 ![Plasma]
 
@@ -25,7 +25,7 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 - The lantern should face away from your ship.
 - Best for largest ships
 - High power demand, very low acceleration.
-- Acceleration 0.05, speed 2.75
+- Acceleration 0.05, power 2.75
 
 ![Ion]
 
@@ -37,23 +37,28 @@ There are 3 kinds of thrusters - glowstone, plasma, and ion.
 The actual equation for thruster acceleration is:
 `log(2 + totalAcceleration) / (log(mass) / log(thrusterAmount + 2))`
 
-The function for speed is: 
-```
-Base Speed:
-y = base speed
-x = total thruster combined power
-m = mass
-F = 200
-y = x^0.4 / m^0.3 * F
+### Speed Calculation
+#### Base Speed
+`speed = "base speed"`
 
-Max Speed:
-a = max speed
-p = starship power output
-x = total thruster combined power
-a = p/x
+`x = total thruster combined power`
 
-Actual BPS = min(a, y)
-```
+`m = mass`
+
+`F = 200`
+
+`speed = x^0.4 / m^0.3 * F`
+
+#### Max Speed
+`max = "max speed"`
+
+`p = starship power output`
+
+`x = total thruster combined power`
+
+`max = p / x`
+
+Actual BPS is whichever is lower, `speed` or `max`, times a final multiplier, currently 80%
 
 [Glowstone]: https://i.imgur.com/QtsjFnN.png
 [Plasma]: https://i.imgur.com/da4g1Pr.png

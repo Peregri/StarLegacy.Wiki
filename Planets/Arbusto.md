@@ -2,16 +2,38 @@
 
 ##### [Go Back](/wiki/space#planets)
 
-> System: Centrum
+## General Information
 
-## Description
+> World Type: Overworld
+>
+> World Theme: Temperate Forest
+>
+> Atmosphere Condition: Habitable
+>
+> Generic Preferable Planet Usage: Farming
+>
+> Resources:
+> - Coal (Not Much)
+> - Gold (Not Much)
 
-Arbusto is a temperate forest planet.
+## Politics and Related Information
 
-> Atmosphere: Safe; No Gear Needed
+* Most of this could change at a moment's notice, but generally will be correct.
 
-> Player Population: High
+> Population: Medium-Low
+>
+> Population Concentration: Medium
+>
+> Capitals: Sector1 (VEGASecurity)
+>
+> Threats: None
+>
+> Trade Cities: Arbost (NPC)
+>
+> Territorial or Controlling Nations: None
 
-> NPC Outpost: Arbost
+## Quick Notes
+
+With tall trees and high hills, rocket boots and speed boosting will be a huge help. Mobs aren't known to be a difficulty, but may be in certain places. Manuvering huge ships **WILL** be extremely difficult.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Arbusto)
