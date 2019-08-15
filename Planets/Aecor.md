@@ -29,7 +29,7 @@
 >
 > Capitals: ClewBay (Anarchists) & ColonyOne (StarFleet)
 >
-> Threats: Anarchists
+> Threats: Anarchists, skeletons
 >
 > Trade Cities: Aecost (NPC)
 >
@@ -37,6 +37,6 @@
 
 ## Quick Notes
 
-This cluster of islands is based on the Greek country. High mountains and lots of islands. The dominating force is the Anarchists with many claims of land and warships. The planet contains a vast ocean and worst of all, skeletons.
+This planet is based on Greece. It is mostly ocean, but there are islands and small continents. The dominating force is the Anarchists with many claims of land and warships.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Aecor)
