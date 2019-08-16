@@ -37,6 +37,6 @@
 
 ## Quick Notes
 
-This planet is based on Greece. It is mostly ocean, but there are islands and small continents. The dominating force is the Anarchists with many claims of land and warships.
+This planet is based on the islands of Greece. It is mostly ocean, but there are islands and small continents. The dominating force is the Anarchists with many claims of land and warships.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Aecor)
