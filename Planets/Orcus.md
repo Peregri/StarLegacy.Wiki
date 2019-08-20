@@ -36,6 +36,6 @@
 
 ## Quick Notes
 
-Many people see Orcus has the little brother of Syre. It surves the same purpose of mining with Quartz and Redstone but does worse overall. The main differences of landscape are the massive lava ocean on the west side and the underground cave system. You need a space suit or an environmental helmet to survive outside.
+Many people see Orcus as the little brother of Syre. It serves the same purpose of mining with Quartz and Redstone, but does worse overall. The main differences of landscape are the massive lava ocean on the west side and the underground cave system. You need a space suit or an environmental helmet to survive outside.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Orcus)

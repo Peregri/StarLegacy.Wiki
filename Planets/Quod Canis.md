@@ -37,6 +37,6 @@
 
 ## Quick Notes
 
-This is the home of a large population of the server. It is the only planet with chetherite, thus it is very valuable. So many people live here, it is fully claimed. With its three trade cities and tons of players, it is the most active planet. Some notable things are the giant water wall surrounding the Exertician capital and Atlantis, a well known city loved for it's leader and buildings.
+This is the home of a large population of players. It is the only planet with chetherite, which makes it very important. All of the land on Quod Canis is currently claimed. With its three trade cities and tons of players, it is the most active planet. Some notable things on Quod Canis are the giant water wall surrounding the Exertician capital and Atlantis, a large trade city.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=QuodCanis)

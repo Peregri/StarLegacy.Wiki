@@ -36,6 +36,6 @@
 
 ## Quick Notes
 
-Porrus is the swamp planet. It has slime and giant holes in the surface that lead into caves. Its trees are annoying to manuver around in big ships, though. You'll need a space suit or environmental helmet to survive the atmosphere.
+Porrus is a swamp planet. It has slime and giant holes in the surface that lead into mushroom-filled caverns. Its trees are annoying to manuver around in big ships. You'll need a space suit or environmental helmet to survive the atmosphere.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Porrus)

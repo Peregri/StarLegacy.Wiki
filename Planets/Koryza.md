@@ -26,7 +26,7 @@
 >
 > Capitals: None
 >
-> Threats: Mobs
+> Threats: Skeletons
 >
 > Trade Cities: Korost (NPC)
 >
@@ -34,6 +34,6 @@
 
 ## Quick Notes
 
-This forest has icey shores and lots of skeletons. Many rare materials are found under the ground, except that there are generally not enough to justify mining. You can find solo people claiming Koryza, but they generally won't be an issue when they don't dislike you.
+This planet features icy shores, large forests, and a vast sea. While there are a number of rare minerals underground, there generally aren't enough to justify mining for them. You can find solo people claiming Koryza, but they generally won't be an issue when they don't dislike you.
 
 [View it on the map](https://dynmap.starlegacy.net/?worldname=Koryza)
